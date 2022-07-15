@@ -1,0 +1,17 @@
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\bin\Debug\net6.0-windows\Extractbase64.exe
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\bin\Debug\net6.0-windows\Extractbase64.deps.json
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\bin\Debug\net6.0-windows\Extractbase64.runtimeconfig.json
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\bin\Debug\net6.0-windows\Extractbase64.dll
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\bin\Debug\net6.0-windows\Extractbase64.pdb
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.csproj.AssemblyReference.cache
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.Form1.resources
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.csproj.GenerateResource.cache
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.AssemblyInfoInputs.cache
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.AssemblyInfo.cs
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.csproj.CoreCompileInputs.cache
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.dll
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\refint\Extractbase64.dll
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.pdb
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\Extractbase64.genruntimeconfig.cache
+C:\Users\framos\source\repos\Extractbase64\Extractbase64\obj\Debug\net6.0-windows\ref\Extractbase64.dll

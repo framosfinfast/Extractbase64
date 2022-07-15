@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32127.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extractbase64", "Extractbase64\Extractbase64.csproj", "{D965F27C-5A76-434A-9E6E-074305205BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D965F27C-5A76-434A-9E6E-074305205BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D965F27C-5A76-434A-9E6E-074305205BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D965F27C-5A76-434A-9E6E-074305205BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D965F27C-5A76-434A-9E6E-074305205BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA3EF9A-17B3-49E6-B5DC-63B7984473CC}
+	EndGlobalSection
+EndGlobal
